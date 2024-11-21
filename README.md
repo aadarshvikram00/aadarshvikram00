@@ -16,13 +16,13 @@
   </a> 
 </p>
 
-- 🔭 I’m have worked on the project [databasefaqs](www.databasefaqs.com)
+- 🔭 I have worked on the project [databasefaqs](www.databasefaqs.com) from **December-2021 to March 23**
 
 - 🌱 I’m currently learning **Java Full stack developer course**
 
 - 📝 I used to write articles on [www.databasefaqs.com](www.databasefaqs.com)
 
-- 💬 Ask me about **PostgreSQL,MariaDB,MS SQL Server,HTML5,CSS3,Javascript,JQuery,Bootstrap5,Tailwind-CSS,React.Js,Redux,Java,MongoDB**
+- 💬 Ask me about **PostgreSQL, MariaDB, MS SQL Server, HTML5, CSS3, Javascript, JQuery, Bootstrap5, Tailwind-CSS, React.Js, Redux, Java, MongoDB**
 
 - 📫 How to reach me **aadarshvikram001@gmail.com**
 
